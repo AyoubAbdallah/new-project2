@@ -25,7 +25,7 @@
 
 ---
 ```
-Example
+Example for this code
 ```
 ## ⚙️ التثبيت
 
