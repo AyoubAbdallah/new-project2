@@ -1,9 +1,10 @@
-# مشروعي الرائع 🚀
+# new-project2
 
-هذا المشروع يقوم بـ ...
+مشروع بسيط لتجربة GitHub ومفاهيم مثل Issues، Pull Requests و Wiki.
 
-## طريقة التشغيل
+## كيف تستخدم المشروع؟
+
 ```bash
-python main.py
-المؤلف
-Ayoub Abdallah
+git clone https://github.com/username/new-project2.git
+cd new-project2
+python app.py
